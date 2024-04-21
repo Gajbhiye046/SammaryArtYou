@@ -90,7 +90,7 @@ chaquopy {
         }
         pip{
             options("--no-index", "--find-links=C:\\Users\\Lenovo\\Python Modules")
-            install("-r", "requirements.txt")
+            install("-r", "C:\\Users\\Lenovo\\AndroidStudioProjects\\SummaryArtYou\\requirements.txt")
         }
     }
 }
